@@ -3,6 +3,7 @@
     "name": "gameplay",
     "slug": "gameplay",
     "version": "1.0.0",
+    "scheme": "gameplay",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
